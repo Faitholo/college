@@ -1,0 +1,38 @@
+body {
+    background: url('../images/s1.jpg') no-repeat top center;
+    background-size: 50%;
+    background-position: 10% 35%;
+}
+
+.container2 {
+    float: right;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+
+input {
+    margin-top: 8px;
+    background-color: black;
+}
+
+@font-face {
+    font-family: 'Segoe UI Light';
+    src: url('.././font/segoeuil.ttf');
+}
+
+h1 {
+    font-family: 'Segoe UI Light';
+    font-weight: 200;
+    font-style: normal;
+    font-size: 2.30em;
+    color: darkgreen;
+}
+
+b {
+    color: royalblue;
+}
+
+.about_pos {
+    margin-top: 200px;
+    text-align: center;
+}
